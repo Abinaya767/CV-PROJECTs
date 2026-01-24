@@ -1,0 +1,5 @@
+Requirements
+Python 3.x – Programming language for implementing the project
+OpenCV (cv2) – For computer vision and drawing shapes
+NumPy (numpy) – For numerical operations and creating the canvas
+Jupyter Notebook / Anaconda – Recommended IDE for running interactive code
